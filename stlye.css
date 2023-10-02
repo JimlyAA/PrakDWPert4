@@ -1,0 +1,26 @@
+.border1{
+    background-color: #618264;
+    color: white;
+    width: 1500px;
+    padding: 15px;
+    font-size: 40px;
+}
+
+.border2{
+    background-color: #79AC78;
+    width: 1500px;
+    padding: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 35px;
+}
+
+.border3{
+    background-color: #B0D9B1;
+    width: 1500px;
+    padding: 15px;
+    text-align: center;
+}
+
+.RELATIVE{
+    font-size: 30px;
+}
